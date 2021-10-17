@@ -1,0 +1,21 @@
+{
+  "name": "musician",
+  "version": "1.0.0",
+  "description": "i play music from youtube",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "npx nodemon app.js"
+  },
+  "keywords": [],
+  "author": "chandan-02",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  },
+  "dependencies": {
+    "axios": "^0.23.0",
+    "discord.js": "^13.2.0",
+    "dotenv": "^10.0.0"
+  }
+}
