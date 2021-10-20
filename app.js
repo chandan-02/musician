@@ -56,7 +56,7 @@ client.on('messageCreate', async (message) => {
 
         if (message.content.substr(prefix.length) == 'stop') {
             getVoiceConnection(message.guild.id).disconnect();
-            message.channel.send('stopping');
+            message.channel.send('i m leaving ');
         }
     } catch (error) {
         console.log(error)
