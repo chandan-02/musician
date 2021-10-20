@@ -1,5 +1,5 @@
 {
-  "engines" : { "node" : ">=16.0.0" } ,
+  "engines" : { "node" : "16.11.1" } ,
   "name": "musician",
   "version": "1.0.0",
   "description": "i play music from youtube",
