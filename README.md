@@ -1,7 +1,7 @@
 # Musician
 
 <p align="center">
-<img src="./assests/logo.svg"/>
+<img src="https://github.com/chandan-02/musician/blob/master/assets/icon.svg"/>
 </p>
 
 ### Rebuild Project :
